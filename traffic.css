@@ -1,0 +1,35 @@
+#black {
+    background-color: black;
+    width:150px;
+    height:430px;
+}
+
+#red{
+   background-color:red;
+   border-radius: 50%;
+
+}
+
+#yellow{
+    background-color:yellow;
+    border-radius: 50%;
+}
+
+#green {
+    background-color:green;
+    border-radius: 50%;
+}
+
+#stand {
+     background-color: black;
+     height:500px;
+     width:20px;
+}
+
+
+ div {
+    width:100px;
+    padding-left: 20px;
+    padding-top: 20px;
+    height:100px;
+}  
