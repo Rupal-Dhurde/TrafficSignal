@@ -1,7 +1,14 @@
+body {
+    background-image:url('traffic.jpg') ;
+    background-size: contain;
+}
+
 #black {
     background-color: black;
     width:150px;
     height:430px;
+    border-color: rgb(245, 245, 245);
+    border-style: dotted;
 }
 
 #red{
@@ -24,6 +31,8 @@
      background-color: black;
      height:500px;
      width:20px;
+    border-color: rgb(245, 245, 245);
+    border-style: dotted;
 }
 
 
